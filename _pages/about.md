@@ -88,7 +88,7 @@ We propose LOGO, an efficient long-context alignment training strategy that sign
 
 - <span class="badge" style="position: relative; display: inline-block; top: 0; left: 0;">软件学报</span> [**基于可控性解释的混合数据增强框架**](https://scholar.hit.edu.cn/en/publications/%E5%9F%BA%E4%BA%8E%E5%8F%AF%E6%8E%A7%E6%80%A7%E8%A7%A3%E9%87%8A%E7%9A%84%E6%B7%B7%E5%90%88%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%BC%BA%E6%A1%86%E6%9E%B6/)
 
-  **孙泽辰**, 肖义胜, 李俊涛†, 张民, 周国栋
+  **孙泽辰**, 肖义胜, 李俊涛, 张民, 周国栋
 
   We propose a controllable explanation-based hybrid data augmentation framework. With minimal fine-tuning data, the model achieves better generalization and robustness on downstream tasks, mitigating shortcut learning in generative LLMs such as LLaMA and FLAN-T5.
 
