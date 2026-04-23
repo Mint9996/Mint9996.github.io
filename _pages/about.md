@@ -59,7 +59,7 @@ We propose CGMIS, a concept-graph-based framework for synthesizing verifiable mu
 
 **Data Foundations of Long-Context Language Models: A Survey**
 
-**Zechen Sun**, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li†, Wenliang Chen, Ao Zhou, Min Zhang
+**Zechen Sun**, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, Wenliang Chen, Ao Zhou, Min Zhang
 
 The first systematic survey on training and evaluation data characteristics for long-context LLMs. We identify key data properties, summarize construction methods, analyze the relationship between data and model capabilities, and provide comprehensive guidance for long-context LLM data design.
 </div>
